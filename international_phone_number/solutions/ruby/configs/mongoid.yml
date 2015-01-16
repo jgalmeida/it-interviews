@@ -1,0 +1,6 @@
+development:
+  sessions:
+    default:
+      database: international_numbers_dev
+      hosts:
+        - localhost:27017
